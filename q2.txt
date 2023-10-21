@@ -1,0 +1,17 @@
+Objects and its internal representation:
+  
+  Objects are created using the new keyword and a constructor function.
+  An object in Javascript is a reference data types that can contain any combination of primitive data types like number,string,boolean,null,symbol as well as other objects.
+  Objects are also used to implement inheritance,which is a way of creating new objects that share the properties of another object.
+  
+  Internal representation:
+    
+         The internal representaion of an object in Javascript is a collection of properties,each with name and value.The properties of an object are accessed using dot notation.
+         The internal representaion of an object in Javascript is not visible to the programmer.
+         The programmer can access and manipulate the properties oa an object using dot notation.
+
+         For example,
+                    cons name = person.name;
+            the following code gets the value of name property of the person object.
+
+    
